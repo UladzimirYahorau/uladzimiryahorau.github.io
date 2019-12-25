@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "About this Blog"
+title: "First Post"
 date: 2017-08-20 00:23:00
 tags: math probability machine-learning optimization statistics cool-stuff
 image: "GAN.png"
