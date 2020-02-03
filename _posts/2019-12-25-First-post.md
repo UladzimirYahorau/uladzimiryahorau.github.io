@@ -9,8 +9,8 @@ tags: self-developement
 > In his book James Clear describes a structured and clear way to build good habits and break bad ones. This post is my summary of the ideas described in this book.
 
 <!--more-->
-> *atomic* 1. an extremely small amount of things; the single irreducible unit of a larger system. 2. the source of immense energy and power. 
-> *habit* 1. a routine or practice performed regularly; an automatic response to a specific situation. 
+- *atomic* 1. an extremely small amount of things; the single irreducible unit of a larger system. 2. the source of immense energy and power. 
+- *habit* 1. a routine or practice performed regularly; an automatic response to a specific situation. 
   
 
 Authors observes that there is a _general pattern_ about habits: We get a *cue* from our environment which triggers a *craving* to do something. Then our *response* follows and , finally, we receive a reward. 
