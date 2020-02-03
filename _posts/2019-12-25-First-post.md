@@ -1,13 +1,12 @@
 ---
 layout: post
 comments: true
-title: "First Post"
+title: "Book review: Atomic Habits by James Clear"
 date: 2017-08-20 00:23:00
-tags: math probability machine-learning optimization statistics cool-stuff
-image: "GAN.png"
+tags: self-developement
 ---
 
-> This is the first test post of this blog.
+> In his book James Clear describes a structured and clear way to build good habits and break bad ones. This post is my summary of the ideas described in this book.
 
 <!--more-->
 
