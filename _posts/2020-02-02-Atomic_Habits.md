@@ -62,11 +62,13 @@ When we are building a new habit it is important that we get reminders which tri
 
 ### Make it attractive
 - Use temptation bundling. Pair an action you want to do with an action you need to do.
-    Example: - Listen to your favourite podcast while doing the dishes.
+    Example:
+    - Listen to your favourite podcast while doing the dishes.
 - Join a culture where your desired behaviour is the normal behaviour.
-    Example: - If you started running recently, join your local running club.
-          - If you are learning data science join your local Data Science meetup.
-          - If you want to eat healthy hanng out with people who already it healthy.
+    Example:
+    - If you started running recently, join your local running club.
+    - If you are learning data science join your local Data Science meetup.
+    - If you want to eat healthy hanng out with people who already it healthy.
 - Create a motivational ritual. Do something you enjoy before the difficult habit.
 
 ### Make it easy
