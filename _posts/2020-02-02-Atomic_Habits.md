@@ -45,6 +45,7 @@ Now, what about **breaking bad habits**. The idea is based on the same general o
 In what follows we discuss in greater details of how to make all these work.
 
 ## Building a new habit
+
 ### Make it obvious
 When we are building a new habit it is important that we get reminders which trigger the habit. It is important for us to make it easy to return back to the habit. James suggests the following techniques:
 - Write down your current habits to become aware of them. The idea is that in order to improve something we first have to become aware of it.
@@ -58,14 +59,18 @@ When we are building a new habit it is important that we get reminders which tri
     Example:
     - Have your running shoes ready near the entrance door of your apartment.
     - Have a book you are reading on your table.
+
 ### Make it attractive
 - Use temptation bundling. Pair an action you want to do with an action you need to do.
-    Example: - Listen to your favourite podcast while doing the dishes.
+    Example:
+    - Listen to your favourite podcast while doing the dishes.
 - Join a culture where your desired behaviour is the normal behaviour.
-    Example: - If you started running recently, join your local running club.
-          - If you are learning data science join your local Data Science meetup.
-          - If you want to eat healthy hanng out with people who already it healthy.
+    Example:
+    - If you started running recently, join your local running club.
+    - If you are learning data science join your local Data Science meetup.
+    - If you want to eat healthy hanng out with people who already it healthy.
 - Create a motivational ritual. Do something you enjoy before the difficult habit.
+
 ### Make it easy
 - Reduce friction. Decrease the number of steps between you and your good habit.
     Example:
@@ -84,14 +89,18 @@ What is immediately awarded is repeated, what is immediately punished is avoided
 - Use a habit tracker. Keep track of your habit chain and do not break it.
 - Never miss twice. Make sure that if you missed a habit, you return on track immediately.
 
-## Breaking bad a bad habit
+## Breaking a bad habit
+
 ### Hide the cues for it
 - Reduce exposure. Hide the cues of bad habits from your environment.
     Example:
     - do not check your Facebook profile during weekdays; do not buy junk food.  
+
 ### Make it unattractive
 - Reframe your mindset. Highlight the benefits of avoiding your bad habit.
+
 ### Make it hard to start
 - Increase friction. Increase the number of steps between you and your bad habits.
+
 ### Make it unsatisfying
 - Get an accountability partner. Ask someone to watch your behaviour.
